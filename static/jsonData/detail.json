@@ -1,0 +1,76 @@
+{
+  "data_": [
+    {
+      "id": "0",
+      "img": "./../../static/img/list1.jpg",
+      "tit": "Apple iPhone X 深空灰色 移动联通电信手机",
+      "type": "颜色",
+      "price": "￥7599.00",
+      "color": ["深空灰色","黑色","银色"],
+      "info": ["公开版","港版"]
+    },
+    {
+      "id": "1",
+      "img": "./../../static/img/list5.jpg",
+      "tit": "谜尚BB",
+      "type": "颜色",
+      "price": "￥599.00",
+      "color": ["自然白","象牙白"],
+      "info": ["500ml","50ml"]
+    },
+    {
+      "id": "2",
+      "img": "./../../static/img/list4.jpg",
+      "tit": "努比亚 深空灰色 移动联通电信手机",
+      "type": "颜色",
+      "price": "￥7599.00",
+      "color": ["深空灰色","黑色","银色"],
+      "info": ["公开版"]
+    },
+    {
+      "id": "3",
+      "img": "./../../static/img/list1.jpg",
+      "tit": "Apple iPhone X 深空灰色 移动联通电信手机",
+      "type": "颜色",
+      "price": "￥7599.00",
+      "color": ["深空灰色","黑色","银色"],
+      "info": ["公开版"]
+    },
+    {
+      "id": "4",
+      "img": "./../../static/img/list2.jpg",
+      "tit": "",
+      "type": "颜色",
+      "price": "￥1599.00",
+      "color": ["10年纯酿","20年纯酿"],
+      "info": ["1瓶","礼盒装"]
+    },
+    {
+      "id": "5",
+      "img": "./../../static/img/list3.jpg",
+      "tit": "Apple iPhone X 中国红 移动联通电信手机",
+      "type": "颜色",
+      "price": "￥7599.00",
+      "color": ["中国红"],
+      "info": ["公开版","日版"]
+    },
+    {
+      "id": "6",
+      "img": "./../../static/img/list5.jpg",
+      "tit": "Apple iPhone X 移动联通电信手机",
+      "type": "颜色",
+      "price": "￥8999.00",
+      "color": ["中国红","灰色"],
+      "info": ["公开版","日版"]
+    },
+    {
+      "id": "7",
+      "img": "./../../static/img/list5.jpg",
+      "tit": "华为 X8 移动联通电信手机",
+      "type": "颜色",
+      "price": "￥5080.00",
+      "color": ["黑色"],
+      "info": ["公开版"]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title":"手机数码",
+  "image":"./../static/img/find1.jpg",
+"data_":[
+  {
+    "img": "./../static/img/type/type5.png",
+    "desc": "路由器"
+  },
+  {
+    "img": "./../static/img/type/type6.png",
+    "desc": "耳机"
+  },
+  {
+    "img": "./../static/img/type/type7.png",
+    "desc": "空调扇"
+  },
+  {
+    "img": "./../static/img/type/type9.jpg",
+    "desc": "蓝牙耳机"
+  },
+  {
+    "img": "./../static/img/type/type10.png",
+    "desc": "蚊帐"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "凉席"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "电饭煲"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "手机"
+  },
+  {
+    "img": "./../static/img/type/type2.jpg",
+    "desc": "空调"
+  },
+  {
+    "img": "./../static/img/type/type3.jpg",
+    "desc": "电风扇"
+  },
+  {
+    "img": "./../static/img/type/type3.jpg",
+    "desc": "充电宝"
+  },
+  {
+    "img": "./../static/img/type/type5.png",
+    "desc": "路由器"
+  },
+  {
+    "img": "./../static/img/type/type6.png",
+    "desc": "耳机"
+  },
+  {
+    "img": "./../static/img/type/type7.png",
+    "desc": "空调扇"
+  },
+  {
+    "img": "./../static/img/type/type9.jpg",
+    "desc": "蓝牙耳机"
+  },
+  {
+    "img": "./../static/img/type/type10.png",
+    "desc": "蚊帐"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "凉席"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "电饭煲"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "空调挂机"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "热水器"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "零食"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "手机"
+  },
+  {
+    "img": "./../static/img/type/type5.png",
+    "desc": "耳机"
+  },
+  {
+    "img": "./../static/img/type/type7.png",
+    "desc": "空调扇"
+  },
+  {
+    "img": "./../static/img/type/type1.jpg",
+    "desc": "蓝牙耳机"
+  }
+]
+}

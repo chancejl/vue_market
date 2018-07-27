@@ -5,12 +5,16 @@
 页面展示：
 首页：
 ![image](https://github.com/chancejl/vue_market/blob/master/mainpage.PNG)
+                                                                          
 类别：
 ![image](https://github.com/chancejl/vue_market/blob/master/type.PNG)
+                                                                      
 发现：
-![image](https://github.com/chancejl/vue_market/blob/master/find.PNG)
+![image](https://github.com/chancejl/vue_market/blob/master/find.PNG) 
+                                                                        
 购物车：
-![image](https://github.com/chancejl/vue_market/blob/master/shopcar.PNG)
+![image](https://github.com/chancejl/vue_market/blob/master/shopcar.PNG) 
+                                                                               
 使用方法：
 1.下载之后使用npm install安装需要的依赖包
 2.npm run dev可以正常使用项目
@@ -37,4 +41,4 @@
 
 待优化项目：
 1.每一个页面顶部位置设置使用vuex更为高效快捷
-2.登陆注册功能
+

@@ -4,15 +4,16 @@
 
 页面展示：
 首页：
-![image](https://github.com/chancejl/vue_market/blob/master/mainpage.PNG)
-                                                                          
+              
+![image](https://github.com/chancejl/vue_market/blob/master/mainpage.PNG)                                                              
 类别：
-![image](https://github.com/chancejl/vue_market/blob/master/type.PNG)
-                                                                      
+
+![image](https://github.com/chancejl/vue_market/blob/master/type.PNG)                                                                   
 发现：
-![image](https://github.com/chancejl/vue_market/blob/master/find.PNG) 
-                                                                        
+
+![image](https://github.com/chancejl/vue_market/blob/master/find.PNG)                                                                   
 购物车：
+
 ![image](https://github.com/chancejl/vue_market/blob/master/shopcar.PNG) 
                                                                                
 使用方法：
